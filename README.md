@@ -1,18 +1,17 @@
-# 👨‍🍳 요리하는 개발자
+# 👨‍🍳 Developer with a Passion for Cooking
 
-안녕하세요! 저는 **요리하는 개발자**입니다. 
+Hello! I'm a **Developer with a Passion for Cooking**.
 
-## 🚀 현재 진행 중인 프로젝트
-- **개인 프로젝트**: 새로운 아이디어와 기술을 활용한 웹 사이트 개발 중.
-- **팀 프로젝트**: 진행 예정.
+## 🚀 Current Projects
+- **Personal Projects**: Developing websites using new ideas and technologies.
+- **Team Projects**: Planned and upcoming.
 
-## 🛠 업데이트 예정
-- 다양한 **개인 프로젝트**와 **팀 프로젝트**를 꾸준히 업데이트할 예정입니다.
+## 🛠 Upcoming Updates
+- Planning to regularly update various **personal** and **team projects**.
 
-## 🌱 관심사 & 목표
-- **프론트엔드 개발**과 **백엔드 개발** 모두에 관심을 가지고 있으며, 풀스택 개발자로 성장하는 것을 목표로 하고 있습니다.
+## 🌱 Interests & Goals
+- Interested in both **frontend** and **backend development**, aiming to grow as a full-stack developer.
 
-## 📫 연락처
-- 이메일: [highcla15@gamil.com](mailto:highcla15@gmail.com)
+## 📫 Contact
+- Email: [highcla15@gmail.com](mailto:highcla15@gmail.com)
 - GitHub: [bluemarket01](https://github.com/bluemarket01)
-
